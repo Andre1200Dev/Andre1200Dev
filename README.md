@@ -24,5 +24,3 @@ Apaixonado por aprender e sempre buscando impactar a vida das pessoas através d
   <a href="https://www.linkedin.com/in/andrealves1200/" target="_blank"><img alt="LinkdIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
   <a href ="mailto:andre1200.dev@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
 </div>
-
-![Snake animation](https://github.com/Andre1200Dev/Andre1200Dev/blob/output/github-contribution-grid-snake.svg)
