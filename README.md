@@ -4,8 +4,8 @@ Apaixonado por aprender e sempre buscando impactar a vida das pessoas através d
 
 <div>
   <a href="#">
-    <img height="180rem" alt="Andre1200Dev GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Andre1200Dev&show_icons=true&theme=dark&title_color=7cfc00&include_all_commits=true&count_private=true"/>
-    <img height="180rem" align="right" alt="Andre1200Dev GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre1200Dev&layout=compact&langs_count=7&theme=dark&title_color=7cfc00" />
+    <img height="160rem" alt="Andre1200Dev GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Andre1200Dev&show_icons=true&theme=dark&title_color=7cfc00&include_all_commits=true&count_private=true"/>
+    <img height="160rem" align="right" alt="Andre1200Dev GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre1200Dev&layout=compact&langs_count=7&theme=dark&title_color=7cfc00" />
   </a>
 </div>
 
