@@ -4,8 +4,8 @@ Apaixonado por aprender e sempre buscando impactar a vida das pessoas através d
 
 <div>
   <a href="#">
-    <img height="150rem" alt="Andre1200Dev GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Andre1200Dev&show_icons=true&theme=dark&title_color=7cfc00&include_all_commits=true&count_private=true"/>
-    <img height="150rem" alt="Andre1200Dev GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre1200Dev&layout=compact&langs_count=7&theme=dark&title_color=7cfc00" />
+    <img height="180rem" alt="Andre1200Dev GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Andre1200Dev&show_icons=true&theme=dark&title_color=7cfc00&include_all_commits=true&count_private=true"/>
+    <img height="180rem" align="right" alt="Andre1200Dev GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre1200Dev&layout=compact&langs_count=7&theme=dark&title_color=7cfc00" />
   </a>
 </div>
 
@@ -24,3 +24,5 @@ Apaixonado por aprender e sempre buscando impactar a vida das pessoas através d
   <a href="https://www.linkedin.com/in/andrealves1200/" target="_blank"><img alt="LinkdIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
   <a href ="mailto:andre1200.dev@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
 </div>
+
+![Snake animation](https://github.com/Andre1200Dev/Andre1200Dev/blob/output/github-contribution-grid-snake.svg)
